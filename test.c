@@ -1,7 +1,7 @@
 
 int one(int x)
 {
-    x = x + 8;
+    x = x + 5;
     printf("\n XYZ = %d", x);
     return (x);
 }
